@@ -1,0 +1,81 @@
+@font-face{
+    font-family: BMHanna;
+    src:url("../fonts/BMHANNAAir_ttf.ttf") format('truetype')
+}
+
+body{
+    font-family: BMHanna;
+}
+
+body > div{
+    width:1000px;
+    display:block;
+    position: relative;
+    float: none;
+    margin: 0 auto
+}
+
+body > div > div{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+body > div > div > h1{
+    margin-bottom: 5%;
+}
+
+td > div{
+    overflow-y: scroll;
+    height: 300px;
+    margin-top: 5%;
+    margin-bottom: 5%
+}
+
+tbody tr{
+    height: 100px;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+.story {
+    width:30%;
+}
+
+.poster {
+    height: 200px
+}
+
+.movie-check-box-group{
+    margin-top: 3%;
+    margin-bottom: 3%
+}
+
+.movie-check-box{
+    width: 15%;
+}
+
+.margin-top-five-percent{
+    margin-top: 5%;
+}
+
+.margin-bottom-five-percent{
+    margin-bottom: 5%;
+}
+
+.margin-top-three-percent{
+    margin-top: 3%;
+}
+
+.margin-bottom-three-percent{
+    margin-bottom: 3%;
+}
+
+.margin-left-three-percent{
+    margin-left: 3%;
+}
